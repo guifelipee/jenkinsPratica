@@ -21,3 +21,8 @@ services:
     networks:
 
       - net
+networks:
+
+  net:
+
+  
